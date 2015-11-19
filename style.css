@@ -96,8 +96,15 @@
   font-size: 18px;
   color: #fff;
 }
+.jumbotron-abouttask li {
+  font-size: 18px;
+  font-family: 'Shift', sans-serif;
+  color: #fff;
+}
+
 
 /*****Weather*****/
+
 .jumbotron-weather{
   background-image:url('images/weather.jpg');
   height: 500px;
