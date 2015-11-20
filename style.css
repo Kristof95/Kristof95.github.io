@@ -27,7 +27,7 @@
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 40px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
@@ -74,7 +74,7 @@
 
 .jumbotron-introduction h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 40px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
@@ -105,7 +105,7 @@
 
 .jumbotron-abouttask h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 40px;   
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
@@ -146,7 +146,7 @@
 
 .jumbotron-weather h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 40px; 
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
